@@ -21,7 +21,7 @@ Existing platforms are either **too limited** or lack a proper **skill exchange 
 
 ---
 
-## 🎯 Objectives  
+##  Objectives  
 
 -  Create a **user-friendly skill exchange platform**  
 -  Enable **peer-to-peer collaboration** between learners & teachers  
@@ -31,7 +31,7 @@ Existing platforms are either **too limited** or lack a proper **skill exchange 
 
 ---
 
-## 🌍 Scope  
+##  Scope  
 
 -  Start with **local communities**, expand regionally, and eventually **globally**  
 -  Include **cultural diversity considerations** for worldwide expansion  
@@ -41,7 +41,7 @@ Existing platforms are either **too limited** or lack a proper **skill exchange 
 
 ---
 
-## 🚀 Features  
+##  Features  
 
 -  **User Management** – Register, login, update profiles  
 -  **Skill Management** – Add, edit, delete skills to learn/teach  
