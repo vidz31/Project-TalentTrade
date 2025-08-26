@@ -91,7 +91,7 @@ git clone https://github.com/vidz31/Project-TalentTrade.git
 - Open your browser and visit:  
 ---
 
-## 🧪 Testing  
+##  Testing  
 
 The project was tested using:  
 -  **White-box testing** – Checked internal logic, flow, and code coverage  
@@ -101,7 +101,7 @@ The project was tested using:
 
 ---
 
-## 🔮 Future Enhancements  
+##  Future Enhancements  
 
 -  Voice & video call integration  
 -  Improved security features  
